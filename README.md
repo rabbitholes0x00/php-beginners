@@ -1,13 +1,13 @@
 # README!
-Name: `PHP`
-Designed by: `Rasmus Lerdorf` at `Home` originally used for tracking visits to his online resume, he named the suite of scripts `Personal Home Page` tools
-First appeared: `1995`
-Developer: `The PHP Development Team`, `Zend Technologies`
-Paradigm:  `imperative`, `functional`, `object-oriented`, `procedural`, `reflective`
-Typing and types discipline: `dynamic` and `strict`
-Package manager: `composer`
-Total keywords in PHP 8: -`
-Official sites: https://www.php.net
+* Name: `PHP`
+* Designed by: `Rasmus Lerdorf` at `Home` originally used for tracking visits to his online resume, he named the suite of scripts `Personal Home Page` tools
+* First appeared: `1995`
+* Developer: `The PHP Development Team`, `Zend Technologies`
+* Paradigm:  `imperative`, `functional`, `object-oriented`, `procedural`, `reflective`
+* Typing and types discipline: `dynamic` and `strict`
+* Package manager: `composer`
+* Total keywords in PHP 8: -`
+* Official sites: `https://www.php.net`
 
 ## LAMPP, Installations
 Follow [this](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-20-04) awesome instructions
